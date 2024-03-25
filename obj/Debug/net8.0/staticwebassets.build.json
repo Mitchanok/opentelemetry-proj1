@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AfjNj5gpcEX51QOAsHj7GyYfROq4kT2kCFfkE9ntEPs=",
+  "Source": "weatherapp-telemetry",
+  "BasePath": "_content/weatherapp-telemetry",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

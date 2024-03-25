@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\weatherapp-telemetry.props" />
+</Project>
