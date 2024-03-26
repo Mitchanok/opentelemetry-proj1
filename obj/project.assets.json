@@ -1995,11 +1995,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\weatherapp-telemetry\\weatherapp-telemetry.csproj",
+      "projectUniqueName": "C:\\Users\\mitch\\Documents\\GitHub\\opentelemetry-proj1\\weatherapp-telemetry.csproj",
       "projectName": "weatherapp-telemetry",
-      "projectPath": "D:\\C#\\weatherapp-telemetry\\weatherapp-telemetry.csproj",
+      "projectPath": "C:\\Users\\mitch\\Documents\\GitHub\\opentelemetry-proj1\\weatherapp-telemetry.csproj",
       "packagesPath": "C:\\Users\\mitch\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\weatherapp-telemetry\\obj\\",
+      "outputPath": "C:\\Users\\mitch\\Documents\\GitHub\\opentelemetry-proj1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
